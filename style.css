@@ -353,6 +353,10 @@ article .icon {
   cursor: default;
 }
 
+.job-details {
+  color: black;
+}
+
 /* PROJECTS SECTION */
 
 #projects {
